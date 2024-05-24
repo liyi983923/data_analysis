@@ -7,6 +7,7 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
   - barplot 2, which is a plot to show the GO data from a RNA-Seq. [barplot 2](https://github.com/liyi983923/data_analysis/blob/main/data-vis/barplot2.r)
 * **drug screen**
   - G protein bias [S1PR1](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_bias)
+  - BMG testing [cell based assay to screen the compounds targets to various of GPCR targets]()
  
 
 ***
