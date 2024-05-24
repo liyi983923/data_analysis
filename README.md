@@ -8,6 +8,7 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 * **drug screen**
   - G protein bias [S1PR1](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_bias)
   - BMG testing:to screen the compounds targets to various of GPCR targets. [cell based assays](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing)
+  - GPCR tree, a circular gendrogram of class A GPCR without olfactory receptors. [Tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
  
 ***
 ### [barplot 1](https://github.com/liyi983923/data_analysis/blob/main/data-vis/barplot1.r), which is a plot from RNA-Seq to show top 30 genes were induced by some stimuli.
@@ -20,5 +21,8 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 ### [G protein bias](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_bias)
 ![S1PR1](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/G_protein_bias/SP1R1_Radarchart.png)
 
-###[BMG testing](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing/)
+### [BMG testing](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing/)
 ![cell based assay](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing/Rplot02.png)
+
+### [GPCR tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
+![circular dendrogram](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree/GPCR_Tree.png)
