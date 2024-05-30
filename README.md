@@ -9,6 +9,7 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
   - G protein bias [S1PR1](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_bias)
   - BMG testing:to screen the compounds targets to various of GPCR targets. [cell based assays](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing)
   - GPCR tree, a circular gendrogram of class A GPCR without olfactory receptors. [Tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
+  - GPCR panel assay with BRET. [panel](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
  
 ***
 ### [barplot 1](https://github.com/liyi983923/data_analysis/blob/main/data-vis/barplot1.r), which is a plot from RNA-Seq to show top 30 genes were induced by some stimuli.
@@ -26,3 +27,12 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 
 ### [GPCR tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
 ![circular dendrogram](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree/Rplot01.png)
+
+### [GPCR panel assay] (https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
+! [panel assay with BRET] (https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay/b1.png)
+
+
+
+
+
+
