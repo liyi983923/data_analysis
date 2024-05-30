@@ -28,8 +28,8 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 ### [GPCR tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
 ![circular dendrogram](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree/Rplot01.png)
 
-### [GPCR panel assay] (https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
-! [panel assay with BRET] (https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay/b1.png)
+### [GPCR panel assay with BRET](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
+![panel assay with BRET](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay/b1.png)
 
 
 
