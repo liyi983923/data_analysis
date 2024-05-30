@@ -25,7 +25,7 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 ### [BMG testing](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing/)
 ![cell based assay](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing/Rplot02.png)
 
-### [GPCR tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
+### [code_GPCR tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
 ![circular dendrogram](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree/Rplot01.png)
 
 ### [code_GPCR panel assay with BRET](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
