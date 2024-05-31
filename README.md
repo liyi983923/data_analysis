@@ -32,6 +32,9 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
 ### [code_GPCR panel assay with BRET](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
 ![panel assay with BRET](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_panel_assay/b1.png)
 
+### [G_protein_screen](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_screen)
+![screen](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/G_protein_screen/x2screen.png)
+
 
 
 
