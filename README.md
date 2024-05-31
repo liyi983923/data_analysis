@@ -10,6 +10,7 @@ I just upload some figures and codes which I made with ggplot2. I guess it will 
   - BMG testing:to screen the compounds targets to various of GPCR targets. [cell based assays](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/BMG_testing)
   - GPCR tree, a circular gendrogram of class A GPCR without olfactory receptors. [Tree](https://github.com/liyi983923/data_analysis/blob/main/GPCR_drug_screen/GPCR_tree)
   - GPCR panel assay with BRET. [panel](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/GPCR_panel_assay)
+  - G protein screen. [screen](https://github.com/liyi983923/data_analysis/tree/main/GPCR_drug_screen/G_protein_screen)
  
 ***
 ### [barplot 1](https://github.com/liyi983923/data_analysis/blob/main/data-vis/barplot1.r), which is a plot from RNA-Seq to show top 30 genes were induced by some stimuli.
