@@ -1,5 +1,5 @@
 # ggplot2
-I just upload some figures and codes which I made with ggplot2. I guess it will be helpful for myself and someone who is new for this area.
+I just uploaded some figures and codes which I made with ggplot2. I guess it will be helpful for myself and someone who is new for this area.
 
 <!-- toc -->
 * **data vis**
